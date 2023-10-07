@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm working as freelancer and I'm Computer Science student<br>💻 Junior Full Stack Web Developer and API Developer<br>📱 Android and iOS Developer<br>🌱 I'm currently learn AI
+🔭 I'm working as freelancer and I'm Computer Science student<br>💻 Full Stack Web Developer and API Developer<br>📱 Android and iOS Developer<br>🌱 I'm currently learning AI
 
 
 ## 🌐 Socials:
